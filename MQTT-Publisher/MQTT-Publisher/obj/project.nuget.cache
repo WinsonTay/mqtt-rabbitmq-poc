@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FSv8fF1hPRc3TSR8fhc/yYinFI0gR4L2RKTsWZM4JukEmAfQyIGvC1RIr1cjd0sHri0nW4gOC3ixsFPFQ14ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DMS-8\\Desktop\\IIOT Projects\\MQTT-Test\\MQTT-Publisher\\MQTT-Publisher\\MQTT-Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DMS-8\\.nuget\\packages\\mqttnet\\4.0.0.167\\mqttnet.4.0.0.167.nupkg.sha512"
+  ],
+  "logs": []
+}
